@@ -20,7 +20,7 @@ Buscando sempre aprender novas tecnologias e colaborar em times de alta performa
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasFolha&show_icons=true&theme=radical)
 
 ## 📫 Reach me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/lucas-folha-314523189/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
