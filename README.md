@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<img align="center" alt="JS" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 # ✨ Hi there, I'm Lucas Braga Folha!  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LucasFolha)
 Analista e Desenvolvedor Fluig • Mauá - SP
