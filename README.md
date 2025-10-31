@@ -1,4 +1,6 @@
-<img align="center" alt="fundo" src="Fundo.jpg" width="900">
+<div align="center">
+  <img src="https://github.com/LucasFolha/LucasFolha/blob/main/Fundo.jpg" width="100%" alt="Banner Lucas Folha" />
+</div>
 
 # ✨ Hi there, I'm Lucas Braga Folha!  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LucasFolha)
 Analista e Desenvolvedor Fluig • Mauá - SP
