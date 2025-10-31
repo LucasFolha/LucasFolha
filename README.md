@@ -9,22 +9,8 @@ Buscando sempre aprender novas tecnologias e colaborar em times de alta performa
 ## 🛠 Tecnologias & Ferramentas
 - **Linguagens:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), HTML, CSS, Java, SQL, REST, SOAP UI e WS
 - **Plataformas / Ferramentas:** Fluig, Spring Boot, React  
-- **Banco de dados:** <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />, PostgreSQL  
+- **Banco de dados:** <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />, <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />  
 - **DevOps / Outras:** Git, Docker, CI/CD  
-
-# ✨ Hi there, I'm Lucas Braga Folha!  
-Analista e Desenvolvedor Fluig • Mauá - SP
-
-## 🚀 Sobre mim
-Atualmente atuo na área de desenvolvimento Fluig na TOTVS Sudeste Meridional.  
-Sou apaixonado por automação, integração de sistemas e melhorar processos por meio de código.  
-Buscando sempre aprender novas tecnologias e colaborar em times de alta performance.
-
-## 🛠 Tecnologias & Ferramentas
-- **Linguagens:** JavaScript, HTML, CSS, Java, SQL, REST, SOAP UI e WS
-- **Plataformas / Ferramentas:** Fluig, Spring Boot, React  
-- **Banco de dados:** <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />, PostgreSQL  
-- **DevOps / Outras:** Git, Docker, CI/CD
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,17 +26,6 @@ Buscando sempre aprender novas tecnologias e colaborar em times de alta performa
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasFolha&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFolha&layout=compact&theme=radical)
-</div>
-
-## 📫 Reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-folha-314523189/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucfolha/)
-- Email: lucas_lcs100@hotmail.com.br
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=LucasFolha)
 
 ## 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasFolha&show_icons=true&theme=radical)
@@ -59,3 +34,4 @@ Buscando sempre aprender novas tecnologias e colaborar em times de alta performa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-folha-314523189/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucfolha/)
 - Email: lucas_lcs100@hotmail.com.br
+- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LucasFolha)
