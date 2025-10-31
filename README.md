@@ -1,16 +1,21 @@
-## Hi there 👋
+# ✨ Hi there, I'm Lucas Braga Folha!  
+Analista e Desenvolvedor Fluig • Mauá - SP
 
-<!--
-**LucasFolha/LucasFolha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+Atualmente atuo na área de desenvolvimento Fluig na TOTVS Sudeste Meridional.  
+Sou apaixonado por automação, integração de sistemas e melhorar processos por meio de código.  
+Buscando sempre aprender novas tecnologias e colaborar em times de alta performance.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias & Ferramentas
+- **Linguagens:** JavaScript, HTML, CSS, Java, SQL, REST, SOAP UI e WS
+- **Plataformas / Ferramentas:** Fluig, Spring Boot, React  
+- **Banco de dados:** MySQL, PostgreSQL  
+- **DevOps / Outras:** Git, Docker, CI/CD  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasFolha&show_icons=true&theme=radical)
+
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/lucas-folha-314523189/)
+- [Instagram](https://www.instagram.com/lucfolha/)  
+- Email: lucas_lcs100@hotmail.com.br 
