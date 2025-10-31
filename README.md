@@ -1,5 +1,6 @@
-# ✨ Hi there, I'm Lucas Braga Folha!  
+# ✨ Hi there, I'm Lucas Braga Folha!  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LucasFolha)
 Analista e Desenvolvedor Fluig • Mauá - SP
+> 💡 “Transformando ideias em código e processos em soluções.”
 
 ## 🚀 Sobre mim
 Atualmente atuo na área de desenvolvimento Fluig na TOTVS Sudeste Meridional.  
@@ -18,6 +19,7 @@ Buscando sempre aprender novas tecnologias e colaborar em times de alta performa
 
 ## 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasFolha&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFolha&layout=compact&theme=radical)
 
 ## 📫 Reach me
 <p align="left">
@@ -31,6 +33,3 @@ Buscando sempre aprender novas tecnologias e colaborar em times de alta performa
     <img src="https://img.shields.io/badge/Outlook-lucas_lcs100@hotmail.com.br-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
   </a>
 </p>
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=LucasFolha)
