@@ -7,7 +7,7 @@ Sou apaixonado por automação, integração de sistemas e melhorar processos po
 Buscando sempre aprender novas tecnologias e colaborar em times de alta performance.
 
 ## 🛠 Tecnologias & Ferramentas
-- **Linguagens:** JavaScript, HTML, CSS, Java, SQL, REST, SOAP UI e WS
+- **Linguagens:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), HTML, CSS, Java, SQL, REST, SOAP UI e WS
 - **Plataformas / Ferramentas:** Fluig, Spring Boot, React  
 - **Banco de dados:** <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />, PostgreSQL  
 - **DevOps / Outras:** Git, Docker, CI/CD  
