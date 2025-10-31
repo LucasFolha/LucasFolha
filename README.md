@@ -20,7 +20,17 @@ Buscando sempre aprender novas tecnologias e colaborar em times de alta performa
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasFolha&show_icons=true&theme=radical)
 
 ## 📫 Reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-folha-314523189/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucfolha/)
-[![Outlook](https://img.shields.io/badge/-lucas_lcs100@hotmail.com.br-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:lucas_lcs100@hotmail.com.br)](mailto:lucas_lcs100@hotmail.com.br)
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-folha-314523189/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/lucfolha/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:lucas_lcs100@hotmail.com.br">
+    <img src="https://img.shields.io/badge/Outlook-lucas_lcs100@hotmail.com.br-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+  </a>
+</p>
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LucasFolha)
